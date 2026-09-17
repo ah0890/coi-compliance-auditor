@@ -1,0 +1,29 @@
+# Coverage requirements used by the validator.
+# Category entries override the `default` block key-by-key.
+
+certificate_holder_must_contain: "Northwind Property Management"
+expiring_warning_days: [30, 60, 90]
+
+default:
+  gl_each_occurrence_min: 1000000
+  gl_aggregate_min: 2000000
+  auto_csl_min: 1000000
+  umbrella_min: 0
+  workers_comp_required: true
+  additional_insured_required: true
+  waiver_of_subrogation_required: false
+
+categories:
+  roofing:
+    gl_each_occurrence_min: 2000000
+    umbrella_min: 1000000
+  janitorial:
+    auto_csl_min: 500000
+  landscaping: {}
+  hvac:
+    umbrella_min: 1000000
+  electrical:
+    gl_each_occurrence_min: 2000000
+  plumbing: {}
+  security:
+    waiver_of_subrogation_required: true

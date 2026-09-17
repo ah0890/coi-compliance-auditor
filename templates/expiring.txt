@@ -1,0 +1,27 @@
+Subject: Action needed: insurance certificate for {vendor_name} expires {expiry_date}
+
+Hello {vendor_name},
+
+Our records show the certificate of insurance you have on file with {holder_name}
+expires on {expiry_date}. To stay approved for work on our properties, please ask
+your broker to send an updated ACORD 25 certificate before that date.
+
+What we noted on the current certificate:
+
+{findings_list}
+
+Please make sure the replacement certificate:
+  - names {holder_name} as certificate holder
+  - includes {holder_name} as additional insured where required by contract
+  - meets the coverage limits in your vendor agreement
+
+Reply to this email with the new certificate attached, or have your broker send it
+directly to us.
+
+Thank you,
+{sender_name}
+{holder_name}
+
+--
+This notice was prepared from an automated review of the certificate on file.
+Please verify the details against your policy before responding.

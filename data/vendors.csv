@@ -1,0 +1,9 @@
+vendor_name,category,contact_email,property,notes
+"Apex Roofing and Sheet Metal, LLC",roofing,certs@apexroofing.example.com,Harbor Point Tower,sample scenario: compliant
+Clearview Janitorial Services Inc,janitorial,insurance@clearviewjan.example.com,Northgate Commons,sample scenario: compliant
+Summit HVAC Solutions LLC,hvac,ops@summithvac.example.com,Harbor Point Tower,sample scenario: expiring_soon
+"Ironclad Security Group, Inc.",security,compliance@ironcladsec.example.com,Northgate Commons,sample scenario: expiring_soon
+Greenline Landscaping Co.,landscaping,admin@greenlinelandscape.example.com,Willow Creek Apartments,sample scenario: expired
+Metro Plumbing Partners LLC,plumbing,billing@metroplumbing.example.com,Willow Creek Apartments,sample scenario: gl_below_minimum
+Voltaic Electric Corp,electrical,certificates@voltaicelectric.example.com,Harbor Point Tower,sample scenario: missing_workers_comp
+Precision Painting & Drywall LLC,painting,office@precisionpaint.example.com,Northgate Commons,sample scenario: wrong_certificate_holder

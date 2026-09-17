@@ -1,0 +1,27 @@
+Subject: Action needed: insurance certificate deficiencies for {vendor_name}
+
+Hello {vendor_name},
+
+We reviewed the certificate of insurance on file for {vendor_name} and found items
+that do not meet the requirements in your vendor agreement with {holder_name}.
+The certificate on file shows an expiry date of {expiry_date}.
+
+Items to correct:
+
+{findings_list}
+
+Please ask your broker to issue a corrected ACORD 25 certificate that:
+  - names {holder_name} as certificate holder
+  - includes {holder_name} as additional insured where required by contract
+  - shows the coverage limits required by your vendor agreement
+
+Work may be paused until a compliant certificate is on file. Reply to this email
+with the corrected certificate attached, or have your broker send it directly.
+
+Thank you,
+{sender_name}
+{holder_name}
+
+--
+This notice was prepared from an automated review of the certificate on file.
+Please verify the details against your policy before responding.

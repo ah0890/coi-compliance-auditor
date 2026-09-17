@@ -1,0 +1,10 @@
+.env
+data/inbox/
+data/processed/
+data/failed/
+data/*.db
+output/
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
